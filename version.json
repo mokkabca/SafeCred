@@ -3,5 +3,5 @@
   "buildNumber": 6,
   "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.4/app-release.apk",
   "releaseNotes": "- Added Credit Card item type with visual card display\n- Added Secure Notes item type\n- Added support for Expiry Dates and CVV with validation\n- Added ExpiryDate and CardNumber auto-formatting\n- Enhanced CSV Import to support SafeInCloud and Bitwarden\n- Fixed favicon loading issues and debugger interruptions\n- Improved overall security and UI consistency"
- "force_update": true
-}
+ }
+
