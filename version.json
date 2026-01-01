@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "PASTE_YOUR_GITHUB_APK_LINK_HERE",
-  "notes": "Added update feature and duplicate checking.",
+  "version": "1.0.1",
+  "url": "PASTE_THE_LINK_TO_YOUR_ARM64_V8A_APK_HERE",
+  "notes": "🚀 Security Audit Dashboard added!\n✨ New duplicate entry protection.\n📦 In-app update system integrated.",
   "force_update": false
 }
