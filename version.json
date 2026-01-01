@@ -1,6 +1,7 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.2/app-release.apk",
-  "notes": "🚀 Security Audit v1.1: Fixed all Dark Mode visibility issues.\n✨ UI Polish: Enhanced contrast for vulnerability lists and headings.\n✏️ Quick Fix: Tapping an entry now opens the editor correctly.\n🔄 Improved Update System: Bypass cache for faster update detection.",
-  "force_update": false
+  "version": "1.0.3",
+  "build_number": 5,
+  "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.3/app-release.apk",
+ "notes": "🛡️ Banking-Grade Security Added!\n🚫 Anti-Screenshot: Screenshots and recordings are now blocked for your safety.\n🙈 Privacy Blur: Vault content is now hidden when switching between apps.\n✨ Version 1.0.3 is now live.",
+  "force_update": true
 }
