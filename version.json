@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.12",
   "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.1/app-release.apk",
   "notes": "🚀 Security Audit v1.1: Fixed all Dark Mode visibility issues.\n✨ UI Polish: Enhanced contrast for vulnerability lists and headings.\n✏️ Quick Fix: Tapping an entry now opens the editor correctly.\n🔄 Improved Update System: Bypass cache for faster update detection.",
   "force_update": false
