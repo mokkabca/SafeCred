@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "build_number": 5,
-  "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.3/app-release.apk",
- "notes": "🛡️ Banking-Grade Security Added!\n🚫 Anti-Screenshot: Screenshots and recordings are now blocked for your safety.\n🙈 Privacy Blur: Vault content is now hidden when switching between apps.\n✨ Version 1.0.3 is now live.",
-  "force_update": true
+  "version": "1.0.4",
+  "buildNumber": 6,
+  "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.4/app-release.apk",
+  "releaseNotes": "- Added Credit Card item type with visual card display\n- Added Secure Notes item type\n- Added support for Expiry Dates and CVV with validation\n- Added ExpiryDate and CardNumber auto-formatting\n- Enhanced CSV Import to support SafeInCloud and Bitwarden\n- Fixed favicon loading issues and debugger interruptions\n- Improved overall security and UI consistency"
+ "force_update": true
 }
