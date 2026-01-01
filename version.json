@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "url": "PASTE_YOUR_GITHUB_APK_LINK_HERE",
   "notes": "Added update feature and duplicate checking.",
   "force_update": false
