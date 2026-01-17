@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
-  "build_number": 6,
-  "buildNumber": 6,
-  "url": "https://github.com/mokkabca/SafeCred/releases/download/v1.0.4/app-release.apk",
-  "notes": "Premium Credit Card & Secure Note features released!",
-  "releaseNotes": "Full list of new features and fixes...",
-  "force_update": false
+    "version": "2.0.0",
+    "build_number": 8,
+    "buildNumber": 8,
+    "url": "https://github.com/mokkabca/SafeCred/releases/download/v2.0.0/app-release.apk",
+    "notes": "SafeCred 2.0: The Customization & Security Mega Update!",
+    "releaseNotes": "- Added Desktop/Android System-level Autofill Service\n- Added Trash / Recycle Bin with 30-day auto-cleanup\n- Added One-Tap Copy Notification with 30s auto-clear timer\n- Added Theme Engine with customizable accent colors\n- Added Compact View Mode for better vault density\n- Improved clipboard security and notification handling\n- Enhanced UI responsiveness and theme consistency",
+    "force_update": false
 }
